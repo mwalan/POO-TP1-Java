@@ -1,0 +1,131 @@
+Ano;Veículo;Título;Autores;Número;Volume;Local;Página Inicial;Página Final
+2016;SoSyM;Toward a well-founded theory for multi-level conceptual modeling;4332944687727590;1;1;;1;27
+2016;CAISE;Engineering Requirements with Desiree: An Empirical Evaluation;5297252436860003;28;;Slovenia;221;238
+2016;WWW;Applying a Multi-Level Modeling Theory to Assess Taxonomic Hierarchies in Wikidata;4332944687727590,5297252436860003;25;;Monteral;975;980
+2016;ACM SAC;An Ontology Pattern Language for Service Modeling;5297252436860003,8826584877205264,9264617752964635;31;;Pisa;321;326
+2016;EMMSAD;PoN-S: A Systematic Approach for Applying the Physics of Notation (PoN);5297252436860003,8826584877205264,9264617752964635;21;;Slovenia;432;447
+2016;FOIS;Towards an Ontology of Requirements at Runtime;9264617752964635,2762374760685577,5297252436860003,1688136556728644;9;;Annecy;255;268
+2016;BPM;Ontological Considerations about the Representation of Events and Endurants in Business Models;4332944687727590,5297252436860003;15;;Rio de Janeiro;20;36
+2016;ISWC;Expressive Multi-Level Modeling for the Semantic Web;4332944687727590,5297252436860003;15;;Berlim;53;69
+2016;RCIS;How Software Changes the World: The Role of Assumptions;5297252436860003;10;;Grenoble;1;12
+2016;AI*IA;Relationships and Events: Towards a General Theory of Reification and Truthmaking;5297252436860003;15;;Genova;237;249
+2016;QMMQ ;The Design of a Core Value Ontology using Ontology Patterns;5297252436860003;3;;Gifu;183;193
+2016;ONTOBRAS ;Extending an Ontology Editor for Domain-related Ontology Patterns Reuse: An Application in the Collaboration Domain;5297252436860003,1688136556728644;5;;Curitiba;1;12
+2016;CAISE;Using a Well-Founded Multi-Level Theory to Support the Analysis and Representation of the Powertype Pattern in Conceptual Modeling;4332944687727590,5297252436860003;28;;Slovenia;309;324
+2016;EMMSAD;Representing Dynamic Invariants in Ontologically Well-Founded Conceptual Models;4332944687727590;21;;Slovenia;303;317
+2016;EDOCW;Service Commitments and Capabilities across the ArchiMate Architectural Layers;4332944687727590,9264617752964635;20;;Vienna;1;10
+2016;ONTOBRAS ;An Ontological Analysis of Capability Modeling in Defense Enterprise Architecture Frameworks;4332944687727590,5297252436860003;5;;Curitiba;1;12
+2016;SBQS;Integrating Tools to Support Software Measurement.;8826584877205264,9264617752964635;15;;Maceió;317;331
+2016;SBQS;An Ontology-Based Approach for Software Measurement Systems Integration;8826584877205264,9264617752964635;15;;Maceió;436;450
+2016;SBQS;Semantic Documentation in Project Management. In: XV Simpósio Brasileiro de Qualidade de Software;8826584877205264,9264617752964635;15;;Maceió;451;466
+2016;SBQS;Measures Suitable for SPC: A Systematic Mapping;8826584877205264;15;;Maceió;166;180
+2016;EKAW;SEON: A Software Engineering Ontology Network;9264617752964635,8826584877205264,5297252436860003;20;;Bologna;527;542
+2016;ONTOBRAS ;Process Integration in Semantic Enterprise Application Integration: a Systematic Mapping;8826584877205264,9264617752964635 ;5;;Curitiba;1;12
+2016;SEAMS;Model predictive control for software systems with CobRA;2762374760685577;11;;Austin;35;46
+2016;Webmedia;A Framework-based Approach for the Integration of Web-based Information Systems on the Semantic Web;2762374760685577;22;;Teresina;231;238
+2015;CAISE;We need to Discuss the Relationship: Revisiting Relationships as Modeling Constructs;5297252436860003;27;;Estocolmo;279;294
+2015;ACM SAC;Towards an Ontology Pattern Language for Harmonizing Software Process related ISO Standards;5297252436860003,8826584877205264,9264617752964635;30;;Salamanca;388;395
+2015;REFSQ;From Stakeholder?s Requirements to Formal Specifications through Refinement;5297252436860003;21;;Essen;164;180
+2015;VMBO;Modeling Service Dynamics: a Case Study;5297252436860003;9;;Tilburg;1;8
+2015;ER;Ontology Engineering by Combining Ontology Patterns;5297252436860003,9264617752964635;34;;Estocolmo;173;186
+2015;ER;Towards a Service Ontology Pattern Language;5297252436860003,8826584877205264,9264617752964635;34;;Estocolmo;187;195
+2015;EDOC;OntoUML Lightweight Editor: A Model-Based Environment to Build, Evaluate and Implement Reference Ontologies.;5297252436860003,4332944687727590;19;;Melbourne;144;147
+2015;FOFAI;Towards an Ontological Analysis of Powertypes;5297252436860003,4332944687727590;1;;Buenos Aires;1;8
+2015;ICAIL;Towards A Legal Core Ontology Based on Alexy?s Theory of Fundamental Rights;5297252436860003,4332944687727590;15;;San Diego;1;12
+2015;ONTOBRAS ;A Systematic Mapping of the Literature on Legal Core Ontologies;5297252436860003,4332944687727590;4;;São Paulo;1;12
+2015;ONTOBRAS ;An Empirical Study to validate the Use of Ontological Guidelines in the Creation of i* Models;5297252436860003,1688136556728644;4;;São Paulo;1;12
+2015;PoEM;Ontology-based Modeling of Cloud Services: Challenges and Perspectives;5297252436860003,8826584877205264,9264617752964635;8;;Valencia;61;70
+2015;ER;Extending the Foundations of Ontology-based Conceptual Modeling with a Multi-Level Theory;5297252436860003,4332944687727590;34;;Estocolmo;119;133
+2015;OXFORD; A commitment-based reference ontology for services.;5297252436860003,4332944687727590,9264617752964635;1;54;;263;288
+2015;OXFORD;Modeling resources and capabilities in enterprise architecture: A well-founded ontology-based proposal for ArchiMate;5297252436860003,4332944687727590;1;54;;1;40
+2015;DKE;Ontological anti-patterns: empirically uncovered error-prone structures in ontology-driven conceptual models;5297252436860003;1;99;;1;50
+2015;AO;Towards ontological foundations for conceptual modeling: The unified foundational ontology (UFO) story;5297252436860003,4332944687727590,1688136556728644;3;10;;259;271
+2015;ACR;An ISO-based software process ontology pattern language and its application for harmonizing standards;5297252436860003,8826584877205264,9264617752964635;2;15;;27;40
+2015;CogSIMA;Assessing situation models with a lightweight formal method;4332944687727590;5;;Orlando;42;48
+2015;EDOC;Towards Capturing Strategic Planning in EA;4332944687727590;19;;Adelaide;159;133
+2015;EDOC;A Semantic Foundation for Organizational Structures: A Multi-level Approach.;4332944687727590;19;;Adelaide;50;10
+2015;QMMQ ;Modeling Stories for Conceptual Model Assessment;4332944687727590;2;;Estocolmo;293;303
+2015;CAISE;Aligning Enterprise Architecture with Strategic Planning;4332944687727590;27;;Estocolmo;426;437
+2015;iSys;Tools Integration for Supporting Software Measurement: A Systematic Literature Review;8826584877205264,9264617752964635;4;8;;80;108
+2015;ICEIS;Metrics to Support IT Service Maturity Models: A Systematic Mapping;8826584877205264;17;;Barcelona;330;337
+2015;SEKE;Integration of Software Measurement Supporting Tools: A Mapping Study;8826584877205264,9264617752964635 ;27;;Pittsburgh;516;521
+2015;WTDQS;Um Método para Seleção de Indicadores de Serviços de TI;8826584877205264;13;;Manaus;1;10
+2015;ONTOBRAS ;Exploring Ontologies for Semantic Documentation in Project Management;8826584877205264,9264617752964635 ;4;;São Paulo;1;12
+2015;PROFES;SINIS: A Method to Select Indicators for IT Services;8826584877205264;16;;Bolzano;68;86
+2015;AO; An ontology of online user feedback in software engineering;1688136556728644;3;10;;297;330
+2015;ER;A Method to Align Goals and Business Processes;1688136556728644;34;;Estocolmo;79;83
+2015;SEAA;Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing;9264617752964635 ;41;;Madeira;208;215
+2015;ER;Capturing Variability in Adaptation Spaces: A Three-Peaks Approach;2762374760685577;34;;Estocolmo;384;398
+2015;Webmedia;A Model-Driven Approach for the Design of Web Information Systems based on Frameworks;2762374760685577;21;;Manaus;41;48
+2017;RBIE;iMap & CMPaaS - De Ferramenta à Plataforma de Serviços para Mapas Conceituais;5454484334693909,9575037824966283;3;24;;125;143
+2015;RBIE;Sobre a aplicação de ontologias para orientar agentes a responder perguntas;5454484334693909,9575037824966283;3;22;;1;12
+2015;Impresa;Trajetórias de aprendizagens em uma formação de professores na modalidade EAD;5454484334693909;2;69;;131;146
+2016;SBIE;EsCola ? Ambiente Educacional para Escrita Colaborativa;5454484334693909;27;;Uberlândia;1255;1264
+2016;WIE;Projetos Maker como Forma de Estimular o Raciocínio Formal através do Pensamento Computacional;5454484334693909;22;;Uberlândia;515;524
+2016;WIE;Aprendizagem colaborativa: desenvolvimento de Projetos de Aprendizagem em ambientes digitais;5454484334693909;22;;Uberlândia;815;824
+2016;CBIE;Apoio computacional para a Mediação Pedagógica em ?Debate de Teses?;5454484334693909;5;;Uberlândia;40;47
+2016;CBIE;AvaGames: Um Ambiente para Apoio a Avaliação da Aprendizagem em Jogos Digitais;5454484334693909;5;;Uberlândia;477;486
+2016;CBIE;Arcabouço Conceitual de Adaptação de Recursos Educacionais para Recomendação de Arquiteturas Pedagógicas;5454484334693909;5;;Uberlândia;507;517
+2016;CBIE;Um Ambiente para Autoria e Realização de Aventuras Pedagógicas Digitais;5454484334693909;5;;Uberlândia;588;597
+2016;CBIE;Os pequenos nativos digitais e suas percepções sobre o mundo digital;5454484334693909;5;;Uberlândia;1463;1472
+2016;PAEE;Aprendizagem Ativa no Desenvolvimento de Sistemas Colaborativos;5454484334693909;8;;Uberlândia;492;500
+2016;FIE;Methodology and a technological framework to maximize learning in a development of serious games distance course and the evaluation of learning;5454484334693909;46;;Eire;1;9
+2016;SBSI;Metodologia de Avaliação de Portais da Transparência Municipais;5454484334693909;12;;Florianópolis;17;24
+2016;SABTIC;Um Sistema Especialista para o Planejamento de Auditorias Baseado em Análise de Riscos;5454484334693909;4;;Corrientes;281;290
+2016;CINTED;Um Ambiente de Autoria para Aplicações com Realidade Aumentada: A3RA;5454484334693909;24;;Porto Alegre;61;70
+2015;SBIE;AM: Uma Plataforma Digital para Criacao e Uso de Veículos de Comunicacao Locativos para Atividades Pedagogicas;5454484334693909,5998785809434157;26;;Maceió;131;139
+2015;SBIE;Apoio a mediação pedagógica em um Debate de Teses utilizando técnicas de processamento de texto;5454484334693909;26;;Maceió;977;986
+2015;SBIE;Explorando Arquiteturas Pedagógicas Recomendadas por meio de Agentes e Ontologia de Modelo do Aluno em Ambientes Virtuais de Aprendizagem;5454484334693909;26;;Maceió;1157;1166
+2015;SBIE;A multiplicidade de papéis e o suporte computacional às arquiteturas pedagógicas;5454484334693909;26;;Maceió;1313;1322
+2015;WIE;Relatos de Aprendizagens e Diretrizes para Planejamento de Disciplinas que usem Jogos Digitais aplicados à Educação;5454484334693909;21;;Maceió;444;453
+2015;SBGames;Avaliação para Aprendizagem Baseada em Jogos: Proposta de um Framework;5454484334693909;14;;Terezina;970;977
+2015;SBGames;Jogos Educacionais Adaptativos: Promovendo Experiências Personalizadas;5454484334693909;14;;Terezina;936;944
+2015;SBGames;Modelo para um Framework Computacional para Avaliação Formativa da Aprendizagem em Jogos Digitais;5454484334693909;14;;Terezina;810;828
+2015;FIE;Adaptation Resources in Virtual Learning Environments under Constructivist Approach: A Systematic Review;5454484334693909;45;;El Paso;1;8
+2016;SBIE;NaPontaDaLíngua: Um Aplicativo para Apoiar o Processo de Ensino-Aprendizagem da Língua Portuguesa;9575037824966283;27;;Uberlândia;60;69
+2016;SBIE;Uma Plataforma de Serviços para Mapas Conceituais;9575037824966283;27;;Uberlândia;230;239
+2016;CMC;AUTOMATIC CONSTRUCTION OF CONCEPT MAPS FROM TEXTS;9575037824966283;7;;Tallin;1;10
+2016;CMC;ONTOMAP: A SERVICE FOR THE TRANSFORMATION OF CONCEPT MAPS TO SHALLOW OWL ONTOLOGIES;9575037824966283;7;;Tallin;1;10
+2016;LACLO;An innovative methodology based on mediation for technological distance learning: A case study of the ?integrated student? Project;9575037824966283;11;;San Carlos;1;7
+2016;LACLO;A categorization of technological approaches to concept maps construction;9575037824966283;11;;San Carlos;1;9
+2016;LACLO; An IoT computational robotics learning laboratory in Vila Velha, Espirito Santo;9575037824966283;11;;San Carlos;1;6
+2016;TISE;Utilizando o SCRATCH no desenvolvimento de lógica de programação como contribuição interdisciplinar;9575037824966283;21;;Santiago;50;59
+2015;TISE;AMBIENTE VIRTUAL DE APRENDIZAGEM - A INCLUSÃO AUTÔNOMA DOS APRENDIZES DEFICIENTES VISUAIS;9575037824966283;20;;Santiago;702;711
+2015;TISE;Contextualização e Caracterização de uma Abordagem Tecnológica para a Construção de Mapas Conceituais;9575037824966283;20;;Santiago;1;10
+2015;TISE; OntoMap: De Mapas Conceituais a Ontologias OWL;9575037824966283;20;;Santiago;172;180
+2015;TISE;Automatizando uma argumentação construtivista por meio dos mapas conceituais;9575037824966283;20;;Santiago;157;162
+2015;DLC;Un Estudio de Caso de Reconocimiento de Patrones en los Textos Colectivos en el Ciberespacio Mediante la Herramienta Wiki en Cursos a Distancia de Pregrado;9575037824966283;1;91;;1;17
+2015;RIA;CAPCOM ? Construtor de Arquiteturas Pedagógicas para Dinâmicas Colaborativas com Dados Multimídia;9575037824966283;2;11;;1;12
+2016;SBSC;CAPCOM - Construtor de Arquiteturas Pedagógicas para Dinâmicas Colaborativas com Multimı́dia;5998785809434157;36;;Porto Alegre;1423;1436
+2016;SBIE;Ambiente para Aprendizagem de Programação fundamentado em Arquiteturas Pedagógicas;5998785809434157;27;;Uberlândia;1275;1284
+2016;CBIE;Uma plataforma para construção de arquiteturas pedagógicas para a aprendizagem de LIBRAS;5998785809434157;5;;Uberlândia;531;539
+2016;CBIE;CAPCOM - Construtor de Arquiteturas Pedagógicas Colaborativas para Operações Cognitivas sobre Dados Multimídia;5998785809434157;5;;Uberlândia;550;558
+2016;Webmedia;ExCAM - Uma metodologia Crowdsourcing para a autoria de conteúdo extra para vídeos;5998785809434157;22;;Teresina;35;40
+2015;ICAI; A Cluster-based Algorithm for Anomaly Detection in Time Series Using Mahalanobis Distance;5998785809434157;17;;Las Vegas;1;6
+2015;SBSC;Modelo para descrição de espaços colaborativos: Apoiando a realização de Arquiteturas Pedagógicas;5998785809434157,5454484334693909;35;;Salvador;189;196
+2015;SBIE;MVLIBRAS: ambiente digital para comunidades de aprendizagem com recursos inclusivos para surdos;5998785809434157;26;;Maceió;772;781
+2015;TISE;Ambiente multiagente para interações síncronas;5998785809434157;20;;Santiago;240;248
+2015;TISE;Reconhecimento de voz para Inclusão de deficientes visuais em ambientes virtuais de aprendizagem;5998785809434157,9575037824966283;20;;Santiago;23;29
+2015;WAPSEDI;Uma Arquitetura Pedagógica para Aprendizagem de Pilotagem de Aeronaves;5998785809434157;7;;Maceió;644;653
+2015;TISE;CriEduc - Sistema web de aprendizagem com tecnologias geoespaciais;5998785809434157;20;;Santiago;315;322
+2106;IEEE;Demand Planning in Smart Homes;8323084944042061;7;14;;3247;3255
+2016;ITOR;Exact formulations for the minimum interference problem in k -connected ad hoc wireless networks;8323084944042061;6;23;;1113;1139
+2017;CTB;BitMatrix: Ferramenta para Geração de Matrizes de Tráfego Ingresso-Egresso usando Bitmaps;8323084944042061;8;;Florianópolis;406;415
+2016;SBPO;Conjunto Mínimo de Observadores para Geração de Matrizes de Tráfego;8323084944042061;48;;Vitória;3208;3219
+2015;SBPO;Scheduling Connected Topologies in Wireless Sensor Networks under the Physical Interference Model;8323084944042061;47;;Porto de Galinhas;1;12
+2015;ERI;RaspiWRT: Dispositivo Aberto para Programação e Configuração de Redes Domésticas usando\Raspberry Pi e Linux;8323084944042061;3;;Goiânia;89;98
+2015;IBM;Toward a platform to support vocational training of people with disabilities;4894515763733502;6;59;;2;7
+2016;DocEng;A Lightweight and Efficient Mechanism for Fixing the Synchronization of Misaligned Subtitle Documents;4894515763733502;6;;Vienna;175;184
+2016;Web4All; Identifying challenges and opportunities in computer-based vocational training for low-income communities of people with intellectual disabilities;4894515763733502;13;;Montreal;2;9
+2016;SBPO; Inserção de restrições de sincronização no roteamento de veículos ? Aplicação a um problema no setor florestal;4695002674556067;48;;Vitória;1;11
+2016;SBPO;Meta-heurística grasp aplicada ao problema do corte bidimensional não-guilhotinado;4695002674556067;48;;Vitória;1;10
+2016;SBPO;Um algoritmo grasp para o SALBP-2;4695002674556067;48;;Vitória;1;11
+2016;SBPO;Um algoritmo simulaterd annealing e um híbrido VNS/ILS para resolver o problema de layout em múltiplas linhas;4695002674556067;48;;Vitória;1;12
+2015;SBPO;Um Simples e Robusto GRASP para o Job Shop Scheduling Problem;4695002674556067;47;;Porto de Galinhas;1;11
+2015;SBPO;Meta heurística Simulated Annealing aplicada ao problema de corte bidimensional não-guilhotinado;4695002674556067;47;;Porto de Galinhas;1;9
+2015;SBPO;Simulated Annealing Aplicado ao Problema de Ordenação em Linhas Paralelas;4695002674556067;47;;Porto de Galinhas;1;8
+2015;SBPO;Um algoritmo GRASP aplicado ao problema de layout de facilidades em fila única.;4695002674556067;47;;Porto de Galinhas;1;12
+2015;SBPO;Desenvolvimento de um algoritmo de Busca Local Iterada para o problema Dial-a-Ride;4695002674556067;47;;Porto de Galinhas;1;12
+2015;ENEGEP;A qualidade do serviço de transporte de cadeirantes na grande Vitória-ES;4695002674556067;35;;Fortaleza;1;16
+2015;ENEGEP;meta-heurística simulated annealing aplicada ao problema do roteamento de veículos capacitados com restrições de carregamento bidimensional;4695002674556067;35;;Fortaleza;1;11
+2015;ENMC;Um algoritmo ILS para o Problema de Alocação de Facilidades em um Corredor;4695002674556067;18;;Salvador;1;10
