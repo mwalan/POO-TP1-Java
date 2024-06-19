@@ -1,0 +1,131 @@
+Ano;Sigla Veículo;Veículo;Qualis;Fator de Impacto;Título;Docentes
+2016;ACM SAC;ACM Symposium on Applied Computing;A1;31,000;An Ontology Pattern Language for Service Modeling;Seth Meyers,Maya Rudolph,Bill Hader
+2016;ISWC;International Semantic Web Conference;A1;40,000;Expressive Multi-Level Modeling for the Semantic Web;Fred Armisen,Seth Meyers
+2016;WWW;International World Wide Web Conference;A1;74,000;Applying a Multi-Level Modeling Theory to Assess Taxonomic Hierarchies in Wikidata;Fred Armisen,Seth Meyers
+2015;ACM SAC;ACM Symposium on Applied Computing;A1;31,000;Towards an Ontology Pattern Language for Harmonizing Software Process related ISO Standards;Seth Meyers,Maya Rudolph,Bill Hader
+2016;BPM;International Conference on Business Process Management;A2;24,000;Ontological Considerations about the Representation of Events and Endurants in Business Models;Fred Armisen,Seth Meyers
+2016;CAISE;Conference on Advanced Information Systems Engineering;A2;22,000;Engineering Requirements with Desiree: An Empirical Evaluation;Seth Meyers
+2016;CAISE;Conference on Advanced Information Systems Engineering;A2;22,000;Using a Well-Founded Multi-Level Theory to Support the Analysis and Representation of the Powertype Pattern in Conceptual Modeling;Fred Armisen,Seth Meyers
+2015;CAISE;Conference on Advanced Information Systems Engineering;A2;22,000;Aligning Enterprise Architecture with Strategic Planning;Fred Armisen
+2015;CAISE;Conference on Advanced Information Systems Engineering;A2;22,000;We need to Discuss the Relationship: Revisiting Relationships as Modeling Constructs;Seth Meyers
+2015;DKE;Data & Knowledge Engineering;A2;1,500;Ontological anti-patterns: empirically uncovered error-prone structures in ontology-driven conceptual models;Seth Meyers
+2015;EDOC;IEEE Enterprise Computing Conference;A2;20,000;A Semantic Foundation for Organizational Structures: A Multi-level Approach.;Fred Armisen
+2015;EDOC;IEEE Enterprise Computing Conference;A2;20,000;OntoUML Lightweight Editor: A Model-Based Environment to Build, Evaluate and Implement Reference Ontologies.;Seth Meyers,Fred Armisen
+2015;EDOC;IEEE Enterprise Computing Conference;A2;20,000;Towards Capturing Strategic Planning in EA;Fred Armisen
+2015;ER;International Conference on Conceptual Modeling;A2;17,000;A Method to Align Goals and Business Processes;Amy Poehler
+2015;ER;International Conference on Conceptual Modeling;A2;17,000;Capturing Variability in Adaptation Spaces: A Three-Peaks Approach;Kenan Thompson
+2015;ER;International Conference on Conceptual Modeling;A2;17,000;Extending the Foundations of Ontology-based Conceptual Modeling with a Multi-Level Theory;Seth Meyers,Fred Armisen
+2015;ER;International Conference on Conceptual Modeling;A2;17,000;Ontology Engineering by Combining Ontology Patterns;Seth Meyers,Bill Hader
+2015;ER;International Conference on Conceptual Modeling;A2;17,000;Towards a Service Ontology Pattern Language;Seth Meyers,Maya Rudolph,Bill Hader
+2015;OXFORD;INFORMATION SYSTEMS (OXFORD);A2;1,832;A commitment-based reference ontology for services.;Seth Meyers,Fred Armisen,Bill Hader
+2015;OXFORD;INFORMATION SYSTEMS (OXFORD);A2;1,832;Modeling resources and capabilities in enterprise architecture: A well-founded ontology-based proposal for ArchiMate;Seth Meyers,Fred Armisen
+2016;DocEng;ACM SIGWEB International Symposium on Document Engineering;B1;14,000;A Lightweight and Efficient Mechanism for Fixing the Synchronization of Misaligned Subtitle Documents;Jay Pharoah
+2016;EKAW;International Conference on Knowledge Engineering and Knowledge Management;B1;0,000;SEON: A Software Engineering Ontology Network;Bill Hader,Maya Rudolph,Seth Meyers
+2016;FIE;Frontier in Education;B1;16,000;Methodology and a technological framework to maximize learning in a development of serious games distance course and the evaluation of learning;Kristen Wiig
+2016;FOIS;International Conference on Formal Ontology in Information Systems;B1;0,000;Towards an Ontology of Requirements at Runtime;Bill Hader,Kenan Thompson,Seth Meyers,Amy Poehler
+2016;SoSyM;Software & Systems Modeling;B1;1,497;Toward a well-founded theory for multi-level conceptual modeling;Fred Armisen
+2015;AO;APPLIED ONTOLOGY (ONLINE);B1;0,526;An ontology of online user feedback in software engineering;Amy Poehler
+2015;AO;APPLIED ONTOLOGY (ONLINE);B1;0,526;Towards ontological foundations for conceptual modeling: The unified foundational ontology (UFO) story;Seth Meyers,Fred Armisen,Amy Poehler
+2015;FIE;Frontier in Education;B1;16,000;Adaptation Resources in Virtual Learning Environments under Constructivist Approach: A Systematic Review;Kristen Wiig
+2015;ICAIL;International Conference on Artificial Intelligence and Law;B1;0,000;Towards A Legal Core Ontology Based on Alexy?s Theory of Fundamental Rights;Seth Meyers,Fred Armisen
+2015;ICEIS;International Conference on Enterprise Information Systems;B1;10,000;Metrics to Support IT Service Maturity Models: A Systematic Mapping;Maya Rudolph
+2015;PROFES;International Conference on Product-Focused Software Process Improvement;B1;11,000;SINIS: A Method to Select Indicators for IT Services;Maya Rudolph
+2015;SEAA;Euromicro Conference on Software Engineering and Advanced Applications;B1;15,000;Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing;Bill Hader
+2015;SEKE;International Conference on Software Engineering and Knowledge Engineering;B1;12,000;Integration of Software Measurement Supporting Tools: A Mapping Study;Maya Rudolph,Bill Hader
+2016;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;Ambiente para Aprendizagem de Programação fundamentado em Arquiteturas Pedagógicas;Tina Fey
+2016;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;EsCola ? Ambiente Educacional para Escrita Colaborativa;Kristen Wiig
+2016;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;NaPontaDaLíngua: Um Aplicativo para Apoiar o Processo de Ensino-Aprendizagem da Língua Portuguesa;Jason Sudeikis
+2016;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;Uma Plataforma de Serviços para Mapas Conceituais;Jason Sudeikis
+2015;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;A multiplicidade de papéis e o suporte computacional às arquiteturas pedagógicas;Kristen Wiig
+2015;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;AM: Uma Plataforma Digital para Criacao e Uso de Veículos de Comunicacao Locativos para Atividades Pedagogicas;Kristen Wiig,Tina Fey
+2015;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;Apoio a mediação pedagógica em um Debate de Teses utilizando técnicas de processamento de texto;Kristen Wiig
+2015;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;Explorando Arquiteturas Pedagógicas Recomendadas por meio de Agentes e Ontologia de Modelo do Aluno em Ambientes Virtuais de Aprendizagem;Kristen Wiig
+2015;SBIE;Simpósio Brasileiro de Informática na Educação;B2;14,000;MVLIBRAS: ambiente digital para comunidades de aprendizagem com recursos inclusivos para surdos;Tina Fey
+2017;RBIE;Revista Brasileira de Informática na Educação;B3;0,000;iMap & CMPaaS - De Ferramenta à Plataforma de Serviços para Mapas Conceituais;Kristen Wiig,Jason Sudeikis
+2016;AI*IA;International Conference of the Italian Association for Artificial Intelligence;B3;0,000;Relationships and Events: Towards a General Theory of Reification and Truthmaking;Seth Meyers
+2016;EDOCW;International Enterprise Distributed Object Computing Workshop;B3;0,000;Service Commitments and Capabilities across the ArchiMate Architectural Layers;Fred Armisen,Bill Hader
+2016;SBQS;Simpósio Brasileiro de Qualidade de Software;B3;0,000;An Ontology-Based Approach for Software Measurement Systems Integration;Maya Rudolph,Bill Hader
+2016;SBQS;Simpósio Brasileiro de Qualidade de Software;B3;0,000;Integrating Tools to Support Software Measurement.;Maya Rudolph,Bill Hader
+2016;SBQS;Simpósio Brasileiro de Qualidade de Software;B3;0,000;Measures Suitable for SPC: A Systematic Mapping;Maya Rudolph
+2016;SBQS;Simpósio Brasileiro de Qualidade de Software;B3;0,000;Semantic Documentation in Project Management. In: XV Simpósio Brasileiro de Qualidade de Software;Maya Rudolph,Bill Hader
+2016;SEAMS;International Workshop on Software Engineering for Adaptive and Self-Managing Systems;B3;0,000;Model predictive control for software systems with CobRA;Kenan Thompson
+2016;WIE;Workshop de Informática na Escola;B3;7,000;Aprendizagem colaborativa: desenvolvimento de Projetos de Aprendizagem em ambientes digitais;Kristen Wiig
+2016;WIE;Workshop de Informática na Escola;B3;7,000;Projetos Maker como Forma de Estimular o Raciocínio Formal através do Pensamento Computacional;Kristen Wiig
+2016;Webmedia;Brazilian Symposium on Multimedia and the Web;B3;7,000;A Framework-based Approach for the Integration of Web-based Information Systems on the Semantic Web;Kenan Thompson
+2016;Webmedia;Brazilian Symposium on Multimedia and the Web;B3;7,000;ExCAM - Uma metodologia Crowdsourcing para a autoria de conteúdo extra para vídeos;Tina Fey
+2015;RBIE;Revista Brasileira de Informática na Educação;B3;0,000;Sobre a aplicação de ontologias para orientar agentes a responder perguntas;Kristen Wiig,Jason Sudeikis
+2015;REFSQ;Working Conference on Requirements Engineering: Foundations for Software Quality;B3;15,000;From Stakeholder?s Requirements to Formal Specifications through Refinement;Seth Meyers
+2015;WIE;Workshop de Informática na Escola;B3;7,000;Relatos de Aprendizagens e Diretrizes para Planejamento de Disciplinas que usem Jogos Digitais aplicados à Educação;Kristen Wiig
+2015;Webmedia;Brazilian Symposium on Multimedia and the Web;B3;7,000;A Model-Driven Approach for the Design of Web Information Systems based on Frameworks;Kenan Thompson
+2015;iSys;Revista Brasileira de Sistemas de Informação;B3;0,000;Tools Integration for Supporting Software Measurement: A Systematic Literature Review;Maya Rudolph,Bill Hader
+2016;CMC;Concept Maps Conference;B4;0,000;AUTOMATIC CONSTRUCTION OF CONCEPT MAPS FROM TEXTS;Jason Sudeikis
+2016;CMC;Concept Maps Conference;B4;0,000;ONTOMAP: A SERVICE FOR THE TRANSFORMATION OF CONCEPT MAPS TO SHALLOW OWL ONTOLOGIES;Jason Sudeikis
+2016;EMMSAD;International Conference on Exploring Modeling Methods for Systems Analysis and Design;B4;0,000;PoN-S: A Systematic Approach for Applying the Physics of Notation (PoN);Seth Meyers,Maya Rudolph,Bill Hader
+2016;EMMSAD;International Conference on Exploring Modeling Methods for Systems Analysis and Design;B4;0,000;Representing Dynamic Invariants in Ontologically Well-Founded Conceptual Models;Fred Armisen
+2016;RCIS;International Conference on Research Challenges in Information Science;B4;12,000;How Software Changes the World: The Role of Assumptions;Seth Meyers
+2016;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Conjunto Mínimo de Observadores para Geração de Matrizes de Tráfego;Andy Samberg
+2016;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Inserção de restrições de sincronização no roteamento de veículos ? Aplicação a um problema no setor florestal;Will Forte
+2016;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Meta-heurística grasp aplicada ao problema do corte bidimensional não-guilhotinado;Will Forte
+2016;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Um algoritmo grasp para o SALBP-2;Will Forte
+2016;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Um algoritmo simulaterd annealing e um híbrido VNS/ILS para resolver o problema de layout em múltiplas linhas;Will Forte
+2016;SBSC;Simpósio Brasileiro de Sistemas Colaborativos;B4;0,000;CAPCOM - Construtor de Arquiteturas Pedagógicas para Dinâmicas Colaborativas com Multimı́dia;Tina Fey
+2016;SBSI;Brazilian Symposium on Information Systems;B4;0,000;Metodologia de Avaliação de Portais da Transparência Municipais;Kristen Wiig
+2016;TISE;Congreso Internacional de Informática Educativa;B4;0,000;Utilizando o SCRATCH no desenvolvimento de lógica de programação como contribuição interdisciplinar;Jason Sudeikis
+2015;PoEM;IFIP WG 8.1 working conference on the Practice of Enterprise Modelling;B4;0,000;Ontology-based Modeling of Cloud Services: Challenges and Perspectives;Seth Meyers,Maya Rudolph,Bill Hader
+2015;SBGames;Simpósio Brasileiro de Jogos e Entretenimento Digital;B4;0,000;Avaliação para Aprendizagem Baseada em Jogos: Proposta de um Framework;Kristen Wiig
+2015;SBGames;Simpósio Brasileiro de Jogos e Entretenimento Digital;B4;0,000;Jogos Educacionais Adaptativos: Promovendo Experiências Personalizadas;Kristen Wiig
+2015;SBGames;Simpósio Brasileiro de Jogos e Entretenimento Digital;B4;0,000;Modelo para um Framework Computacional para Avaliação Formativa da Aprendizagem em Jogos Digitais;Kristen Wiig
+2015;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Desenvolvimento de um algoritmo de Busca Local Iterada para o problema Dial-a-Ride;Will Forte
+2015;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Meta heurística Simulated Annealing aplicada ao problema de corte bidimensional não-guilhotinado;Will Forte
+2015;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Scheduling Connected Topologies in Wireless Sensor Networks under the Physical Interference Model;Andy Samberg
+2015;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Simulated Annealing Aplicado ao Problema de Ordenação em Linhas Paralelas;Will Forte
+2015;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Um Simples e Robusto GRASP para o Job Shop Scheduling Problem;Will Forte
+2015;SBPO;Simpósio Brasileiro de Pesquisa Operacional;B4;0,000;Um algoritmo GRASP aplicado ao problema de layout de facilidades em fila única.;Will Forte
+2015;SBSC;Simpósio Brasileiro de Sistemas Colaborativos;B4;0,000;Modelo para descrição de espaços colaborativos: Apoiando a realização de Arquiteturas Pedagógicas;Tina Fey,Kristen Wiig
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;AMBIENTE VIRTUAL DE APRENDIZAGEM - A INCLUSÃO AUTÔNOMA DOS APRENDIZES DEFICIENTES VISUAIS;Jason Sudeikis
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;Ambiente multiagente para interações síncronas;Tina Fey
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;Automatizando uma argumentação construtivista por meio dos mapas conceituais;Jason Sudeikis
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;Contextualização e Caracterização de uma Abordagem Tecnológica para a Construção de Mapas Conceituais;Jason Sudeikis
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;CriEduc - Sistema web de aprendizagem com tecnologias geoespaciais;Tina Fey
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;OntoMap: De Mapas Conceituais a Ontologias OWL;Jason Sudeikis
+2015;TISE;Congreso Internacional de Informática Educativa;B4;0,000;Reconhecimento de voz para Inclusão de deficientes visuais em ambientes virtuais de aprendizagem;Tina Fey,Jason Sudeikis
+2016;CINTED;Ciclo de Palestras de Novas Tecnologias na Educação;B5;0,000;Um Ambiente de Autoria para Aplicações com Realidade Aumentada: A3RA;Kristen Wiig
+2016;LACLO;Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem;B5;6,000;A categorization of technological approaches to concept maps construction;Jason Sudeikis
+2016;LACLO;Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem;B5;6,000;An IoT computational robotics learning laboratory in Vila Velha, Espirito Santo;Jason Sudeikis
+2016;LACLO;Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem;B5;6,000;An innovative methodology based on mediation for technological distance learning: A case study of the ?integrated student? Project;Jason Sudeikis
+2015;ACR;APPLIED COMPUTING REVIEW;B5;0,750;An ISO-based software process ontology pattern language and its application for harmonizing standards;Seth Meyers,Maya Rudolph,Bill Hader
+2106;IEEE;Revista IEEE América Latina;C;0,000;Demand Planning in Smart Homes;Andy Samberg
+2017;CTB;Computer on The Beach;C;0,000;BitMatrix: Ferramenta para Geração de Matrizes de Tráfego Ingresso-Egresso usando Bitmaps;Andy Samberg
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;Apoio computacional para a Mediação Pedagógica em ?Debate de Teses?;Kristen Wiig
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;Arcabouço Conceitual de Adaptação de Recursos Educacionais para Recomendação de Arquiteturas Pedagógicas;Kristen Wiig
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;AvaGames: Um Ambiente para Apoio a Avaliação da Aprendizagem em Jogos Digitais;Kristen Wiig
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;CAPCOM - Construtor de Arquiteturas Pedagógicas Colaborativas para Operações Cognitivas sobre Dados Multimídia;Tina Fey
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;Os pequenos nativos digitais e suas percepções sobre o mundo digital;Kristen Wiig
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;Um Ambiente para Autoria e Realização de Aventuras Pedagógicas Digitais;Kristen Wiig
+2016;CBIE;Congresso Brasileiro de Informática na Educação;C;7,000;Uma plataforma para construção de arquiteturas pedagógicas para a aprendizagem de LIBRAS;Tina Fey
+2016;ITOR;International Transactions in Operational Research;C;0,000;Exact formulations for the minimum interference problem in k -connected ad hoc wireless networks;Andy Samberg
+2016;ONTOBRAS;Brazilian Symposium on Ontology Research;C;0,000;An Ontological Analysis of Capability Modeling in Defense Enterprise Architecture Frameworks;Fred Armisen,Seth Meyers
+2016;ONTOBRAS;Brazilian Symposium on Ontology Research;C;0,000;Extending an Ontology Editor for Domain-related Ontology Patterns Reuse: An Application in the Collaboration Domain;Seth Meyers,Amy Poehler
+2016;ONTOBRAS;Brazilian Symposium on Ontology Research;C;0,000;Process Integration in Semantic Enterprise Application Integration: a Systematic Mapping;Maya Rudolph,Bill Hader
+2016;PAEE;International  Symposium  on  Project  Approaches  in  Engineering  Education;C;0,000;Aprendizagem Ativa no Desenvolvimento de Sistemas Colaborativos;Kristen Wiig
+2016;QMMQ;International Workshop on Quality of Models and Models of Quality;C;0,000;The Design of a Core Value Ontology using Ontology Patterns;Seth Meyers
+2016;SABTIC;Seminario Argentina-Brasil de Tecnologías de la Información y la Comunicación;C;0,000;Um Sistema Especialista para o Planejamento de Auditorias Baseado em Análise de Riscos;Kristen Wiig
+2016;Web4All;Web for All Conference;C;0,000;Identifying challenges and opportunities in computer-based vocational training for low-income communities of people with intellectual disabilities;Jay Pharoah
+2015;CogSIMA;International InterDisciplinary Conference on Cognitive Methods in Situation Awareness and Decision Support;C;13,000;Assessing situation models with a lightweight formal method;Fred Armisen
+2015;DLC;DIÁLOGOS DE LA COMUNICACIÓN;C;0,000;Un Estudio de Caso de Reconocimiento de Patrones en los Textos Colectivos en el Ciberespacio Mediante la Herramienta Wiki en Cursos a Distancia de Pregrado;Jason Sudeikis
+2015;ENEGEP;Encontro Nacional de Engenharia de Produção;C;0,000;A qualidade do serviço de transporte de cadeirantes na grande Vitória-ES;Will Forte
+2015;ENEGEP;Encontro Nacional de Engenharia de Produção;C;0,000;meta-heurística simulated annealing aplicada ao problema do roteamento de veículos capacitados com restrições de carregamento bidimensional;Will Forte
+2015;ENMC;Encontro Nacional de Modelagem Computacional;C;0,000;Um algoritmo ILS para o Problema de Alocação de Facilidades em um Corredor;Will Forte
+2015;ERI;Encontro Regional de Informática de Goiás;C;0,000;RaspiWRT: Dispositivo Aberto para Programação e Configuração de Redes Domésticas usando\Raspberry Pi e Linux;Andy Samberg
+2015;FOFAI;International Workshop on Formal Ontologies for Artificial Intelligence;C;0,000;Towards an Ontological Analysis of Powertypes;Seth Meyers,Fred Armisen
+2015;IBM;IBM Journal of Research and Development;C;0,000;Toward a platform to support vocational training of people with disabilities;Jay Pharoah
+2015;ICAI;International Conference on Artificial Intelligence;C;0,000;A Cluster-based Algorithm for Anomaly Detection in Time Series Using Mahalanobis Distance;Tina Fey
+2015;Impresa;Revista Iberoamericana de Educación;C;0,000;Trajetórias de aprendizagens em uma formação de professores na modalidade EAD;Kristen Wiig
+2015;ONTOBRAS;Brazilian Symposium on Ontology Research;C;0,000;A Systematic Mapping of the Literature on Legal Core Ontologies;Seth Meyers,Fred Armisen
+2015;ONTOBRAS;Brazilian Symposium on Ontology Research;C;0,000;An Empirical Study to validate the Use of Ontological Guidelines in the Creation of i* Models;Seth Meyers,Amy Poehler
+2015;ONTOBRAS;Brazilian Symposium on Ontology Research;C;0,000;Exploring Ontologies for Semantic Documentation in Project Management;Maya Rudolph,Bill Hader
+2015;QMMQ;International Workshop on Quality of Models and Models of Quality;C;0,000;Modeling Stories for Conceptual Model Assessment;Fred Armisen
+2015;RIA;Revista de Informática Aplicada;C;0,000;CAPCOM ? Construtor de Arquiteturas Pedagógicas para Dinâmicas Colaborativas com Dados Multimídia;Jason Sudeikis
+2015;VMBO;International Workshop on Value Modeling and Business Ontologies;C;0,000;Modeling Service Dynamics: a Case Study;Seth Meyers
+2015;WAPSEDI;Workshop de Arquiteturas Pedagógicas para Suporte à Educação a Distância mediada pela Internet;C;0,000;Uma Arquitetura Pedagógica para Aprendizagem de Pilotagem de Aeronaves;Tina Fey
+2015;WTDQS;Workshop de Teses e Dissertações em Qualidade de Software;C;0,000;Um Método para Seleção de Indicadores de Serviços de TI;Maya Rudolph
